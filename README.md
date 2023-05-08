@@ -1,5 +1,3 @@
-# DINO_annotation
-A dino repository with annotation
 :new: *Please check out our more recent [DINOv2](https://github.com/facebookresearch/dinov2) effort in the same line of work.*
 
 # Self-Supervised Vision Transformers with DINO
